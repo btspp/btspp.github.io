@@ -1,0 +1,8 @@
+{
+  "version": "2.2",
+  "force": "1",
+  "appURL": "https://app.btspp.io?v=2.2",
+  "newVersionInfo": "发现新版本 v2.2，赶快去更新吧。\n该版本更新了HTLC、提案细节并增强了签名稳定性等。",
+  "newVersionInfoEn": "New version v2.2. \nThis version updates HTLC, proposal details, and more. Let's try it.",
+}
+

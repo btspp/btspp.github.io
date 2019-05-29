@@ -1,0 +1,1 @@
+{"version":"2.2","force":"1","appURL":"https://app.btspp.io?v=2.2","newVersionInfo":"发现新版本 v2.2。该版本添加了HTLC相关功能，更新了提案显示等。","newVersionInfoEn":"New version v2.2. This version adds HTLC related features and updates the proposal display.","faucetURL":"","wssNodes":{"default":["wss://btsapi.magicw.net/ws","wss://api.bts.mobi/ws"],"cn":[],"en":[]}}

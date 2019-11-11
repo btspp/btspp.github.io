@@ -1,2 +1,2 @@
 ## https://btspp.github.io
-This is the website of the bitshares mobile app
+This is the embedded web page of the BitShares Mobile App.
